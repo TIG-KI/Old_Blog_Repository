@@ -41,6 +41,22 @@
       {{ page.content }}
     </article>
 
+    <div id="container"></div>
+	<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+	<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+	<script>
+		var gitment = new Gitment({
+		  id: '', // 可选。默认为 location.href
+		  owner: 'TIG-KI',
+		  repo: 'TIG-KI.github.io',
+		  oauth: {
+		    client_id: 'ca18fb2e3d80abff25a6',
+		    client_secret: 'cb4dbd1d6b484ed846198ce839470b3c7cbba683',
+		  },
+		})
+		gitment.render('container')
+	</script>
+
     {% if site.social-share %}
     <div class="social-share-wrapper">
       <div class="social-share"></div>
