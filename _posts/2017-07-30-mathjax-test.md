@@ -4,7 +4,7 @@ title: My first blog
 date: 2018-04-10
 categories: 测试
 tags: 测试
-music-id: 518088613
+music-id: 86367
 cover: https://raw.githubusercontent.com/TIG-KI/Test/master/timg.jpg
 ---
 
