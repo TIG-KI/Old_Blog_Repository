@@ -6,6 +6,7 @@ categories: 博客搭建
 tags: 博客搭建
 music-id: 108251
 cover: https://codingstyle-cn.b0.upaiyun.com/photo/2015/de7a9fa3b0d7df4f3bb2c6143ebcdbd0.png
+---
 
 ## 材料
 * git（非必须，但便于管理）
