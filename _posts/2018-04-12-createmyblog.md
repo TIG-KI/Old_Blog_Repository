@@ -5,7 +5,7 @@ date: 2018-04-10
 categories: 博客搭建
 tags: 博客搭建
 music-id: 108251
-cover: https://codingstyle-cn.b0.upaiyun.com/photo/2015/de7a9fa3b0d7df4f3bb2c6143ebcdbd0.png
+cover: http://image.techweb.com.cn/upload/roll/2016/10/11/201610113897_1033.jpg
 ---
 
 ## 材料
